@@ -1,6 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 .red {
   color: red;
 }
 .blue {
   color: blue;
+}
+.menu {
+  height: 60px;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
