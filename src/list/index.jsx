@@ -8,7 +8,7 @@ class List extends React.Component {
         {data.map((user) => {
           return (
             <h2>
-              {user.id}. {user.name}
+              
             </h2>
           );
         })}
